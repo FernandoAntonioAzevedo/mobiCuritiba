@@ -55,9 +55,7 @@ body {
   font-family: var(--default-font);
 }
 
-.logo-nav {
- ;
-}
+
 
 a {
   color: var(--accent-color);
@@ -151,8 +149,8 @@ h6 {
 }
 
 .header .logo img {
-  margin-top: 20px;
-  max-height: 52px;
+  margin-top: 10px;
+  max-height: 42px;
   margin-left: 8px;
 }
 
